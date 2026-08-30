@@ -77,16 +77,16 @@ KPIサマリー: 未対応件数 / 対応中件数 / 完了件数 / 平均処理
 
 📸 成果物スクリーンショット
 1. Power BI ダッシュボード（KPI・処理時間・進捗状況）
-2. <img width="936" height="801" alt="スクリーンショット 2026-08-30 140207" src="https://github.com/user-attachments/assets/8c004d0f-714e-4669-9b93-c3330e38958a" />
-（ここに先ほどのPower BIのスクリーンショット画像を挿入）
+<img width="936" height="801" alt="スクリーンショット 2026-08-30 140207" src="https://github.com/user-attachments/assets/8c004d0f-714e-4669-9b93-c3330e38958a" />
 
 ポイント: 主要KPI（未対応・対応中・完了・平均処理時間）を最上部に集約し、ステータスや担当者別の負荷が一目で把握できるデザインに設計。
 
 2. SharePoint Lists（データハブ）
-（SharePointリストの画面や列定義の画像を挿入）
+<img width="1911" height="953" alt="スクリーンショット 2026-08-30 141851" src="https://github.com/user-attachments/assets/80b9443c-0967-42f6-aa18-f2a78cc89804" />
 
 3. Power Automate フロー
-（自動通知フローの画像を挿入）
+<img width="1910" height="951" alt="スクリーンショット 2026-08-30 141957" src="https://github.com/user-attachments/assets/1ed296f9-1665-4aac-b16a-e9d254006027" />
+
 
 🚀 このプロジェクトで得た知見・アピールポイント
 業務プロセスから逆算したデータ設計: データの発生から処理、可視化までのパイプラインを一気通貫で構築。
