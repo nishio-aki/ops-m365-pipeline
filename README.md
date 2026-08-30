@@ -6,6 +6,7 @@
 🛠️ システム構成・アーキテクチャ
 本システムは、UI層・処理層・可視化層の依存関係を排除し、SharePoint ListsをSingle Source of Truth（SSoT）とした疎結合な構成を採用しています。
 
+```mermaid
 graph TD
     %% スタイル定義
     classDef user fill:#f9f,stroke:#333,stroke-width:2px;
@@ -31,6 +32,7 @@ graph TD
     
     SP -.->|定期スケジュール更新| PBI
     PBI -->|データ集計・描画| Dashboard
+```
 💡 設計判断と技術選定の経緯（Design Decisions）
 開発の初期段階では、一般的なローコード開発の主流に沿って「Power Apps」をフロントエンドの入力UIおよび処理のハブとして構築・検証を行いました。しかし、実装・検証を進める中で以下の課題に直面しました。
 
