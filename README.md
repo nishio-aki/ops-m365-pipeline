@@ -75,19 +75,19 @@ graph TD
   * **日別トレンド:** 依頼件数の推移と滞留リスクの監視
 
 ---
-<img width="1910" height="951" alt="スクリーンショット 2026-08-30 141957" src="https://github.com/user-attachments/assets/0e1d8c08-e3e8-4bea-b73d-ef9566e40bcc" />
-<img width="1911" height="953" alt="スクリーンショット 2026-08-30 141851" src="https://github.com/user-attachments/assets/a6e2415d-8cf8-4dd5-a0b9-8cd6764dd64d" />
-<img width="936" height="801" alt="スクリーンショット 2026-08-30 140207" src="https://github.com/user-attachments/assets/54eaa1f3-20db-4ac6-a574-83b4454ad12c" />
+
+
+
 
 ## 📸 成果物スクリーンショット
 
 ### ① Power BI ダッシュボード（KPI・処理時間・進捗状況）
 * **ポイント:** 主要KPI（未対応・対応中・完了・平均処理時間）を最上部に集約し、ステータスや担当者別の負荷が一目で把握できるデザインに設計。
-
+<img width="1910" height="951" alt="スクリーンショット 2026-08-30 141957" src="https://github.com/user-attachments/assets/0e1d8c08-e3e8-4bea-b73d-ef9566e40bcc" />
 ### ② SharePoint Lists（データハブ）
-
+<img width="1911" height="953" alt="スクリーンショット 2026-08-30 141851" src="https://github.com/user-attachments/assets/a6e2415d-8cf8-4dd5-a0b9-8cd6764dd64d" />
 ### ③ Power Automate フロー
-
+<img width="936" height="801" alt="スクリーンショット 2026-08-30 140207" src="https://github.com/user-attachments/assets/54eaa1f3-20db-4ac6-a574-83b4454ad12c" />
 ---
 
 ## 🚀 このプロジェクトで得た知見・アピールポイント
